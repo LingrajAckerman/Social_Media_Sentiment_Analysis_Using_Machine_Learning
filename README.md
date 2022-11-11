@@ -1,1 +1,2 @@
-# Social_Media_Sentiment_Analysis_Using_Machine_Learning
+Social media has opened a whole new world for people around the globe. People are just a click away from getting huge chunk of information. With information comes people’s opinion and with this comes the positive and negative outlook of people regarding a topic. Sometimes this also results into bullying and passing on hate comments about someone or something.
+So in this project we will use a data set containing a collection of tweets to detect the sentiment associated with a particular tweet and detect it as negative or positive accordingly using Machine Learning.
